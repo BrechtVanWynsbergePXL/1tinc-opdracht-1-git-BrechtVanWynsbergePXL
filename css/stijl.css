@@ -26,27 +26,30 @@ body nav h3 ul li a{
 
 body nav h3 ul li a:hover{
     background-color: #555555;
+    color: deeppink;
 }
 
 body section article header h2{
     padding: 10px;
     color: #27426D;
     margin: 5px;
-    width: 250px;
+    width: 50%;
     border-bottom: 4px solid black;
 }
 
 body section article p{
     padding: 10px;
+    width: 50%;
     color: black;
     margin: 0px;
 }
 
-body footer p{
+body footer{
     padding: 10px;
     background-color: grey;
     font-weight: bolder;
     margin: 0px;
+
 }
 
 h3 {
