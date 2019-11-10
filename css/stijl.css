@@ -60,3 +60,18 @@ body {
     margin: 0;
     background-color: aliceblue;
 }
+
+table {
+    width: 75%;
+    border-color: dimgrey;
+}
+
+table th{
+    width: 25%;
+    height: 50px;
+}
+
+table td{
+    width: 25%;
+    height: 50px;
+}
